@@ -1,0 +1,8 @@
+{
+    "text_file": "text.txt",
+    "destination_language": "en",
+    "output": "screen",
+    "max_characters": 600,
+    "max_words": 100,
+    "max_sentences": 10
+}
